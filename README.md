@@ -5,6 +5,33 @@ Basically you just need connect the esp32 camera to the local wifi and get photo
 
 And to rotate the esp32 cam, u just need to connect a esp32 to a servo using Blynk App. You can do this by youtube or chatgpt to guide.
 
+
+
+
+https://github.com/user-attachments/assets/f748e2cf-ea06-4e74-8a94-9f13b33634c6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 #include <Servo.h>

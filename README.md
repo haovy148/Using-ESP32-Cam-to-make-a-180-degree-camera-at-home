@@ -13,6 +13,10 @@ https://github.com/user-attachments/assets/f748e2cf-ea06-4e74-8a94-9f13b33634c6
 
 
 
+This is how it works
+https://github.com/haovy148/Using-ESP32-Cam-to-make-a-180-degree-camera-at-home/issues/2
+
+
 
 
 

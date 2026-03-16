@@ -35,7 +35,7 @@ https://github.com/haovy148/Using-ESP32-Cam-to-make-a-180-degree-camera-at-home/
 
 
 
-
+This is the code to use the motor by ESP32
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
@@ -65,4 +65,7 @@ void setup() {
 void loop() {
   Blynk.run();
 }
+
+About the code to run the camera ESP32 cam. You can ahhhh, Watch the youtube by the link on top to see ya
+
 

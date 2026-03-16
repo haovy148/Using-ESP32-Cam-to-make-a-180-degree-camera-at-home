@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/f748e2cf-ea06-4e74-8a94-9f13b33634c6
 
 
 There is a video about how to receive images from the telegram, it is in the Image for the project. Somehow, I cannot upload it, I will fix this tonight.
-Done
+Click the link to view 
 https://github.com/haovy148/Using-ESP32-Cam-to-make-a-180-degree-camera-at-home/issues/3#issue-4079503358
 
 
